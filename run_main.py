@@ -1,5 +1,3 @@
-!pip install transformers
-!pip install accelerate
 import argparse
 import torch
 from accelerate import Accelerator, DeepSpeedPlugin
